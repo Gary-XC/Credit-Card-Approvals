@@ -1,5 +1,10 @@
 # Credit-Card-Approvals
-Using machine learning, I predicted whether someone would get their credit card approved, with data obtained from publicly sourced online database, Kaggle
-Using machine learning, I predicted whether someone would get their credit card approved. I used: Pandas, NumPy, Matplotlib, Seaborn, and Sklearn, and had to apply data cleaning and analysis and machine learning skills.
-I meticulously cleaned and preprocessed the dataset downloaded from an online databank, addressing missing values and ensuring data integrity. 
-Utilizing advanced statistical and machine learning techniques from Sklearn, I conducted a comprehensive analysis to identify patterns and factors influencing credit card approval and successfully built a predictive model achieving an impressive 90% accuracy rate.
+I demonstrated expertise in data manipulation and analysis using Python and a suite of libraries including Pandas, NumPy, Matplotlib, and Seaborn. 
+
+Employed Scikit-Learn to implement and fine-tune various machine learning algorithms to identify patterns and factors influencing credit card approval comprehensively 
+
+Using Sklearn-based machine learning models with a 90% accuracy rate at predicting credit card approval outcomes based on an applicant’s background 
+
+## In progress: 
+- Making a dashboard to display the findings interactively and elegantly for a better understanding for non-tech literate people
+- Separating the data analysis, visualization, and the different models, before providing better comments and reasons as to why columns were included and excluded
